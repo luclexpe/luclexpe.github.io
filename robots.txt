@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://luclexpe.github.io/sitemap.html.gz
+Sitemap: https://luclexpe.github.io/app/sitemap.html.gz
+Sitemap: https://luclexpe.github.io/assets/sitemap.html.gz
+Sitemap: https://luclexpe.github.io/css/sitemap.html.gz
+Sitemap: https://luclexpe.github.io/includes/sitemap.html.gz
+Sitemap: https://luclexpe.github.io/item/sitemap.html.gz
+Sitemap: https://luclexpe.github.io/src/sitemap.html.gz
